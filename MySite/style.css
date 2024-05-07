@@ -1,0 +1,16 @@
+
+*{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.MainTitle { 
+    background-color: black;
+    color: white;
+}
+
+.Container { 
+
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 2;
+}
